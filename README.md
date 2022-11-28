@@ -3,7 +3,10 @@
     <a href = "mailto:willian.tokura@ufac.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="(67)992141462" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "http://lattes.cnpq.br/3530744794583222"><img src="https://img.shields.io/badge/-Lattes-red?style=for-the-badge&logo=GitBook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=Dj08eLoAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-%230077B5?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a> 
+     <a href="https://orcid.org/0000-0001-9363-793X" target="_blank"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a> 
+ 
+  
   
 ### Olá! Eu sou o professor Willian 👋
   
