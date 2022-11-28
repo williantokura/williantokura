@@ -6,13 +6,20 @@
    <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=Dj08eLoAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-%230077B5?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a> 
      <a href="https://orcid.org/0000-0001-9363-793X" target="_blank"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a> 
  
+  # Olá! Eu sou o professor Willian 👋
   
   
-### Olá! Eu sou o professor Willian 👋
-  
-Atualmente sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). Minha area de pesquisa é a geometria diferencial e abaixo estão alguns dos trabalhos que eu venho desenvolvendo desde o meu doutorado.
+Atualmente sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). 
  
-
+ # Formação :mortar_board:
+ 
+ - Graduação em Matemática pela [Universidade Federal da Grande Dourados (UFGD) 2010-2014](https://portal.ufgd.edu.br/) 👨🏼‍🏫.
+ 
+ - Mestrado e Doutorado em Matemática pela [Universidade Federal de Goiás (UFG) 2014-2019](https://www.ufg.br/) 👨🏼‍🏫.
+ 
+ # Artigos produzidos :books: :notebook: :black_nib:
+ Minha area de pesquisa é a geometria diferencial e abaixo estão alguns dos trabalhos que eu venho desenvolvendo desde o meu doutorado.
+ 
 - [On warped product gradient Yamabe solitons (2019)](https://doi.org/10.1016/j.jmaa.2018.12.044) 👨🏼‍🏫 - Journal of Mathematical Analysis and Applications.
   
 - [The Caffarelli–Kohn–Nirenberg inequality on metric measure spaces (2021)](https://doi.org/10.1007/s00229-020-01206-1) 👨🏼‍🏫 - Manuscripta Mathematica.
