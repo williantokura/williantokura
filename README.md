@@ -9,14 +9,24 @@
   # Olá! Eu sou o professor Willian 👋
   
   
-Atualmente sou professor de matemática na Universidade Federal do Acre (UFAC). Sou licenciado em matemática pela Universidade Federal da Grande Dourados (UFGD) e mestre e doutor em matemática pela Universidade Federal de Goiás (UFG). 
+Atualmente sou professor efetivo na [Universidade Federal do Acre (UFAC)](https://www.ufac.br/).
  
  # Formação :mortar_board:
  
- - Graduação em Matemática pela [Universidade Federal da Grande Dourados (UFGD) 2010-2014](https://portal.ufgd.edu.br/) 👨🏼‍🏫.
+ - 	__Graduação__  em Matemática pela [Universidade Federal da Grande Dourados (UFGD) 2010-2014](https://portal.ufgd.edu.br/) 👨🏼‍🏫.
  
- - Mestrado e Doutorado em Matemática pela [Universidade Federal de Goiás (UFG) 2014-2019](https://www.ufg.br/) 👨🏼‍🏫.
+ - __Mestrado__  e __Doutorado__  em Matemática pela [Universidade Federal de Goiás (UFG) 2014-2019](https://www.ufg.br/) 👨🏼‍🏫.
  
+     
+ # Endereço profissional :mailbox_with_no_mail: :office:
+ 
+ - Endereço: Campus Universitário - BR-364 km 4, 60440 - Distrito Industrial, Rio Branco - AC, 69920-900.
+    
+ - Departamento de Matemática - CCET.
+    
+ - Telefone: (68) 3901-2536.
+    
+    
  # Artigos produzidos :books: :notebook: :black_nib:
  Minha area de pesquisa é a geometria diferencial e abaixo estão alguns dos trabalhos que eu venho desenvolvendo desde o meu doutorado.
  
