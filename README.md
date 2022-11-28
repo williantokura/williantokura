@@ -43,6 +43,28 @@ A minha area de pesquisa é a geometria diferencial e abaixo estão listados alg
 - [The nonexistence of warped product gradient almost Ricci solitons (2022)](https://doi.org/10.1016/j.difgeo.2022.101884) 👨🏼‍🏫 - Differential geometry and its applications.
   
 - [Triviality results for quasi K-Yamabe solitons (2022)](https://doi.org/10.1007/s00013-022-01795-1) 👨🏼‍🏫 - Archiv der Mathematik.
+
+    
+- [On warped product gradient Ricci-Harmonic soliton (2023)](https://arxiv.org/abs/1906.11933) 👨🏼‍🏫 - Annales Mathématiques Blaise Pascal.
+
+    
+- [Rigidity results for Riemann and Schouten solitons (2023)](https://arxiv.org/abs/2208.07962) 👨🏼‍🏫 - Mediterranean Journal of Mathematics.
+    
+    
+   
+ # Pré-Prints :books: :notebook: :black_nib:
+ 
+- [Poperties of complete noncompact warped product gradient Yamabe solitons](https://arxiv.org/abs/1904.08288) 👨🏼‍🏫 - Arxiv repository.
+  
+- [Static perfect fluids with symmetries](https://arxiv.org/abs/1905.00114) 👨🏼‍🏫 - Arxiv repository.
+  
+- [Rigidity results for quotient almost Yamabe solitons](https://arxiv.org/abs/2011.03569) 👨🏼‍🏫 - Arxiv repository.
+  
+- [Immersion of gradient almost Yamabe solitons into warped product manifolds](https://arxiv.org/abs/2010.03995) 👨🏼‍🏫 - Arxiv repository.
+
+- [Invariant solutions of gradient k-Yamabe solitons](https://arxiv.org/abs/2108.04665) 👨🏼‍🏫 - Arxiv repository.
+  
+
     
     
     
