@@ -9,7 +9,7 @@
   # Olá! Eu sou o professor Willian 👋
   
   
-Atualmente sou professor efetivo na [Universidade Federal do Acre (UFAC)](https://www.ufac.br/).
+Atualmente sou professor efetivo na [Universidade Federal da Grande Dourados (UFGD)](https://portal.ufgd.edu.br/).
  
  # Formação :mortar_board:
  
@@ -20,11 +20,11 @@ Atualmente sou professor efetivo na [Universidade Federal do Acre (UFAC)](https:
      
  # Endereço profissional :mailbox_with_no_mail: :office:
  
- - Endereço: Campus Universitário - BR-364 km 4, 60440 - Distrito Industrial, Rio Branco - AC, 69920-900.
+ - Endereço: Rodovia Dourados/Itahum, Km 12 - Unidade II, Dourados - MS, 79.804-970.
     
- - Departamento de Matemática - CCET.
+ - Departamento de Matemática - FACET.
     
- - Telefone: (68) 3901-2536.
+ - Telefone: (67) 3410-2070/2094.
     
     
  # Artigos produzidos :books: :notebook: :black_nib:
