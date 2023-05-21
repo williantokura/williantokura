@@ -50,12 +50,11 @@ A minha area de pesquisa é a geometria diferencial e abaixo estão listados alg
     
 - [Rigidity results for Riemann and Schouten solitons (2023)](https://arxiv.org/abs/2208.07962) 👨🏼‍🏫 - Mediterranean Journal of Mathematics.
     
-    
+- [Poperties of complete noncompact warped product gradient Yamabe solitons (2023)](https://arxiv.org/abs/1904.08288) 👨🏼‍🏫 - Mediterranean Journal of Mathematics.
+  
    
  # Pré-Prints :books: :notebook: :black_nib:
  
-- [Poperties of complete noncompact warped product gradient Yamabe solitons](https://arxiv.org/abs/1904.08288) 👨🏼‍🏫 - Arxiv repository.
-  
 - [Static perfect fluids with symmetries](https://arxiv.org/abs/1905.00114) 👨🏼‍🏫 - Arxiv repository.
   
 - [Rigidity results for quotient almost Yamabe solitons](https://arxiv.org/abs/2011.03569) 👨🏼‍🏫 - Arxiv repository.
