@@ -47,7 +47,7 @@ A minha area de pesquisa é a geometria diferencial e abaixo estão listados alg
     
 - [Rigidity results for Riemann and Schouten solitons (2023)](https://link.springer.com/article/10.1007/s00009-023-02319-z) 👨🏼‍🏫 - Mediterranean Journal of Mathematics.
     
-- [Poperties of complete noncompact warped product gradient Yamabe solitons (2023)](https://arxiv.org/abs/1904.08288) 👨🏼‍🏫 - Mediterranean Journal of Mathematics.
+- [Poperties of complete noncompact warped product gradient Yamabe solitons (2023)](https://doi.org/10.1007/s00009-023-02451-w) 👨🏼‍🏫 - Mediterranean Journal of Mathematics.
     
 - [On warped product gradient Ricci-Harmonic soliton (2023)](https://arxiv.org/abs/1906.11933) 👨🏼‍🏫 - Chinese Annals of Mathematics, Series B.
 
