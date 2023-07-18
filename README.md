@@ -63,7 +63,7 @@ A minha area de pesquisa é a geometria diferencial e abaixo estão listados alg
 
 - [Invariant solutions of gradient k-Yamabe solitons](https://arxiv.org/abs/2108.04665) 👨🏼‍🏫 - Arxiv repository.
   
-- [On gradient Riemann solitons invariant by rotation]([https://arxiv.org/abs/2108.04665](https://www.researchgate.net/publication/371901444_On_gradient_Riemann_solitons_invariant_by_rotation)) 👨🏼‍🏫 - Researchgate repository.
+- [On gradient Riemann solitons invariant by rotation]([https://www.researchgate.net/publication/371901444_On_gradient_Riemann_solitons_invariant_by_rotation]) 👨🏼‍🏫 - Researchgate repository.
   
 
     
