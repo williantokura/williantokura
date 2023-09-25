@@ -28,7 +28,7 @@ Atualmente sou professor efetivo na [Universidade Federal da Grande Dourados (UF
     
     
  # Artigos produzidos :books: :notebook: :black_nib:
-A minha area de pesquisa é a geometria diferencial e abaixo estão listados alguns dos trabalhos produzidos desde o meu doutorado.
+A minha área de pesquisa é a geometria diferencial e abaixo estão listados alguns dos trabalhos produzidos desde o meu doutorado.
  
 - [On warped product gradient Yamabe solitons (2019)](https://doi.org/10.1016/j.jmaa.2018.12.044) 👨🏼‍🏫 - Journal of Mathematical Analysis and Applications.
   
