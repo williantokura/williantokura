@@ -51,7 +51,13 @@ A minha área de pesquisa é a geometria diferencial e abaixo estão listados al
     
 - [On warped product gradient Ricci-Harmonic soliton (2023)](https://arxiv.org/abs/1906.11933) 👨🏼‍🏫 - Chinese Annals of Mathematics, Series B.
 
-  
+- [Gradient almost Yamabe solitons immersed into a Riemannian warped product manifold (2024)](https://doi.org/10.55730/1300-0098.3524) 👨🏼‍🏫 - Turkish Journal of Mathematics.
+
+- [On almost quotient Yamabe solitons (2024)](https://doi.org/10.1017/S0017089524000119)) 👨🏼‍🏫 - Glasgow Mathematical Journal.
+
+- [Gradient Einstein-type warped products: rigidity, existence and nonexistence results via a nonlinear PDE (2025)](https://doi.org/10.1016/j.na.2025.113759)) 👨🏼‍🏫 - Nonlinear Analysis-theory Methods & Applications.
+
+
    
  # Pré-Prints :books: :notebook: :black_nib:
  
